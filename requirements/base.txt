@@ -1,0 +1,9 @@
+aiofiles~=0.8.0
+aiosqlite~=0.17.0
+apscheduler<4,>=3.8
+feedparser<7,>=6.0
+hikari[speedups]==2.0.0.dev108
+hikari-lightbulb==2.2.2
+psutil<6,>=5.8
+python-dotenv~=0.20.0
+uvloop~=0.16.0; os_name != "nt"
